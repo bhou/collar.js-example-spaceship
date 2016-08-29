@@ -41,9 +41,18 @@ tap and move your finger
 
 `http://localhost:8080?rotate=<number>`
 
+### set game width, default fit screen (only available on desktop)
+
+`http://localhost:8080?w=800`
+
+### set game height, default fit screen (only available on desktop)
+
+`http://localhost:8080?h=600`
+
 ### enable invincible mode
 
 `http://localhost:8080?invincible=1`
+
 
 ## Example:
 
