@@ -9,11 +9,18 @@ Play it directly:
 > [just for fun](http://collarjs.com/examples/spaceship/index.html?level=4&rotate=7)
 >
 > [challenge yourself](http://collarjs.com/examples/spaceship/index.html?level=10)
-> 
+>
 > [god like](http://collarjs.com/examples/spaceship/index.html?level=10&invincible=1&speed=10&rotate=7)
 
-## Usage :
+## How to play
 
+### browser
+click and drag your mouse
+
+### mobile
+tap and move your finger
+
+## Installation :
 
 1. clone the repository
 2. install http-server: `sudo npm install http-server -g`
@@ -41,4 +48,5 @@ Play it directly:
 ## Example:
 
 Play a level 10 game with spaceship speed 7 rotation speed 7
+
 `http://localhost:8080?level=10&speed=7&rotate=7`
