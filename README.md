@@ -5,8 +5,11 @@ You are a spaceship pilot, you accidentally entered an enemy territory. They fir
 
 Play it directly:
 > [slow motion](http://collarjs.com/examples/spaceship/index.html)
+>
 > [just for fun](http://collarjs.com/examples/spaceship/index.html?level=4&rotate=7)
+>
 > [challenge yourself](http://collarjs.com/examples/spaceship/index.html?level=10)
+> 
 > [god like](http://collarjs.com/examples/spaceship/index.html?level=10&invincible=1&speed=10&rotate=7)
 
 ## Usage :
