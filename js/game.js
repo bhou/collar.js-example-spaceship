@@ -134,7 +134,7 @@ function gameLogic(game) {
       game.physics.startSystem(Phaser.Physics.ARCADE);
     })
     .do("render background", signal => {
-      background = game.add.tileSprite(0, 0, window.innerWidth, window.innerHeight, 'background');
+      background = game.add.tileSprite(0, 0, __width__, __height__, 'background');
     })
     .do("render spaceship", signal => {
       spaceship = game.add.sprite(game.world.centerX,game.world.centerY, 'spaceship');
