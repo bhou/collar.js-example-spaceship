@@ -10,7 +10,7 @@ Play it directly:
 >
 > [challenge yourself](http://collarjs.com/examples/spaceship/index.html?level=10&speed=7&rotate=7)
 >
-> [speed & furious](http://collarjs.com/examples/spaceship/index.html?level=10&speed=10&rotate=10)
+> [fast & furious](http://collarjs.com/examples/spaceship/index.html?level=10&speed=10&rotate=10)
 >
 > [god like](http://collarjs.com/examples/spaceship/index.html?level=10&invincible=1&speed=10&rotate=10)
 
@@ -28,6 +28,18 @@ tap and move your finger
 2. install http-server: `sudo npm install http-server -g`
 3. run the server: `hs`
 4. open `http://localhost:8080`
+
+## Understand how it works
+
+With collar.js, it is very easy to understand how your application works:
+
+1. install collar-dev-server `sudo npm install collar-dev-server -g`
+2. run collar-dev-server `collar-dev-server`
+3. open collar dev tool in browser `http://localhost:7500`
+4. open your game in browser and add paramter `dev=1` in the URL.
+for example : `http://localhost:8080?dev=1&level=10&speed=7&rotate=7`
+5. check collar dev tool at `http://localhost:7500`
+
 
 ## Cheat code:
 
