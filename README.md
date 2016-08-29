@@ -4,13 +4,15 @@
 You are a spaceship pilot, you accidentally entered an enemy territory. They fired several self guided missiles to shoot you down. Your mission is to do turn maneuver with your mouse to escape from these missiles. You can play with it from the following link. See how long you can last, and good luck! pilot :p
 
 Play it directly:
-> [slow motion](http://collarjs.com/examples/spaceship/index.html)
+> [slow motion](http://collarjs.com/examples/spaceship/index.html?rotate=7)
 >
-> [just for fun](http://collarjs.com/examples/spaceship/index.html?level=4&rotate=7)
+> [just for fun](http://collarjs.com/examples/spaceship/index.html?level=4&speed=7&rotate=7)
 >
-> [challenge yourself](http://collarjs.com/examples/spaceship/index.html?level=10)
+> [challenge yourself](http://collarjs.com/examples/spaceship/index.html?level=10&speed=7&rotate=7)
 >
-> [god like](http://collarjs.com/examples/spaceship/index.html?level=10&invincible=1&speed=10&rotate=7)
+> [speed & furious](http://collarjs.com/examples/spaceship/index.html?level=10&speed=10&rotate=10)
+>
+> [god like](http://collarjs.com/examples/spaceship/index.html?level=10&invincible=1&speed=10&rotate=10)
 
 ## How to play
 
